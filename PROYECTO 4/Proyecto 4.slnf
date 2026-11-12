@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "..\\source\\repos\\Proyecto4_Calculadora\\Proyecto4_Calculadora.slnx",
+    "projects": [
+      "Proyecto4_Calculadora\\Proyecto4_Calculadora.csproj"
+    ]
+  }
+}
